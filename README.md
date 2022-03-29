@@ -14,7 +14,7 @@
 
 Teams are to build a text classification model that can classify new messages into one of the given (predefined) topics.
 
-**Notes***: An accompanying report is not necessary. Teams may submit source code, but it is not required, and I will not mark it.*
+**Notes**: *An accompanying report is not necessary. Teams may submit source code, but it is not required, and I will not mark it.*
 
 **Deliverables** 
 
@@ -39,7 +39,7 @@ Teams are to build a text classification model that can classify new messages in
 |**Q&A**|
 |10|Q&A. Ability to honestly, respectfully, and intelligently answer questions during the Q&A portion of the presentation|10%||
 
-Presentation Tips 
+**Presentation Tips** 
 
 - Focus on the juicy bits.
 - Don't include an agenda slide. 
